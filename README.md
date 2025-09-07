@@ -18,4 +18,5 @@ Soverain is a Streamlit-based app designed to help users reflect on decisions, S
 This app is ready for deployment on Streamlit Community Cloud or other platforms.
 
 ## Author
-Ava Gabrielle Wise — Visionary, Architect, and Steward of Soverain
+Gabrielle — Visionary, Architect, and Steward of Soverain
+
